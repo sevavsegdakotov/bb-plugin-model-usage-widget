@@ -1,0 +1,7 @@
+node_modules/
+.bb-build-cache/
+.git/
+.DS_Store
+.env
+.env.*
+*.tgz

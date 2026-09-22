@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.bb-build-cache/
+.DS_Store
+.env
+.env.*
+!.env.example
